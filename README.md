@@ -1,2 +1,2 @@
 # Lab1Arsw
-![](LAB1/src7/imagenes/Captura pull.PNG)
+![](LAB1/src/imagenes/Captura pull.PNG)
