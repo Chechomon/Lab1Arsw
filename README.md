@@ -1,2 +1,2 @@
 # Lab1Arsw
-![Captura pull](LAB1/src/imagenes/Captura pull.PNG)
+![Capturapull](LAB1/src/imagenes/Capturapull.PNG)
