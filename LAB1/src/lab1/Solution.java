@@ -25,13 +25,10 @@ public class Solution {
             return r;
         }else{
             for(int i = 0; i < array1.length; i++){
-                if(Character.toString(array1[i]).equalsIgnoreCase(Character.toString(array2[i]))){
-                    r=true;
-                }
-                if(array2.toString().contains(Character.toString(array1[i]))){
-                    r = true;
-                } else {
-                    return r;
+                for(int j = 0; j < array2.length; j++){
+                    if(Character.toString(array1[i]).equalsIgnoreCase(Character.toString(array2[j]))){
+                        r = true;
+                    }
                 }
             }
             return r;
